@@ -1,0 +1,26 @@
+Add a new Pet                                     - GET
+Upload an Image                                   - POST 
+Updates a pet in the store with the form data     - POST
+Find Pets by status                               - GET
+Find Pets by tags                                 - GET
+Find Pets by ID                                   - GET
+Update an existing Pet                            - PUT
+Delete the Pet                                    - DELETE
+
+
+Given  ->
+Add a new Pet
+
+When ->
+Updates a pet in the store with the form data
+
+Then ->
+Find Pets by status                               
+AND
+Find Pets by tags
+AND                                 
+Find Pets by ID  
+AND
+Update an existing Pet
+AND
+Delete the Pet
