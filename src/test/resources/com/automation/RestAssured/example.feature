@@ -1,6 +1,6 @@
-Feature: An example
+Feature: Details of the Per
 
-        Scenario: The example
+        Scenario: Data Updation over the DB for the Pets
             Given Add a new pet
              When Updates a pet in the store with the form data
              Then Find Pets by status
